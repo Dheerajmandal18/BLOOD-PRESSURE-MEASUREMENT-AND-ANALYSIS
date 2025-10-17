@@ -120,3 +120,15 @@ submit_button.pack()
 
 # Run the App
 root.mainloop()
+
+
+## 📸 Screenshots
+
+### 🩺 Main Interface
+![Main Interface](screenshot1.png)
+
+### 📊 Analysis Result
+![Analysis Result](screenshot2.png)
+
+
+
