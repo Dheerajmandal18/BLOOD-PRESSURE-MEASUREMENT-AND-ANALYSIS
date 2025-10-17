@@ -16,7 +16,13 @@ The application uses **Tkinter** for the graphical interface, allowing users to 
 - Tkinter (built-in GUI library)
 
 ---
+## 📸 Screenshots
 
+### 🩺 Main Interface
+![Main Interface](screenshot1.png)
+
+### 📊 Analysis Result
+![Analysis Result](screenshot2.png)
 ## 💻 Code Implementation
 
 ```python
@@ -122,13 +128,7 @@ submit_button.pack()
 root.mainloop()
 
 
-## 📸 Screenshots
 
-### 🩺 Main Interface
-![Main Interface](screenshot1.png)
-
-### 📊 Analysis Result
-![Analysis Result](screenshot2.png)
 
 
 
