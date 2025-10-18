@@ -126,6 +126,19 @@ submit_button.pack()
 
 # Run the App
 root.mainloop()
+## 📁 Project Structure
+Blood-Pressure-Measurement-and-Analysis/
+│
+├── blood_pressure_analyzer.py
+├── README.md
+├── /images
+│   ├── screenshot1.png
+│   ├── screenshot2.png
+│   
+├── /data
+│   └── bp_data.csv
+└── /docs
+    └── project_report.pdf
 
 
 
